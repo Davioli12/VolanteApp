@@ -1,0 +1,42 @@
+LICENÇA DE USO DE SOFTWARE – SOFTWARE VOLANTE ARDUINO
+
+Copyright (c) 2025 Davi Oli.
+Todos os direitos reservados.
+
+Este software, doravante denominado “Software Volante Arduino”, foi desenvolvido em Python, com dados em formato JSON, compilado para executável (.exe) e distribuído por meio de instalador. O aplicativo é de propriedade exclusiva de Davi Oli.
+
+Ao instalar, copiar ou utilizar o Software Volante Arduino, o usuário concorda integralmente com os seguintes termos:
+
+1. CONCESSÃO DE LICENÇA  
+   Este software é licenciado, e não vendido.  
+   O uso é permitido somente mediante aquisição de uma licença válida, gerenciada eletronicamente pelo sistema oficial de licenciamento desenvolvido por Davi Oli (via integração com Google Planilhas e scripts de autenticação).  
+   Cada licença é pessoal, intransferível e restrita ao(s) dispositivo(s) autorizado(s) pelo titular da licença.
+
+2. RESTRIÇÕES  
+   É expressamente proibido:
+   - Copiar, modificar, redistribuir, vender, alugar ou sublicenciar o software, no todo ou em parte, sem autorização escrita do autor.  
+   - Realizar engenharia reversa, descompilação, extração de código-fonte ou tentativa de burlar o sistema de licenciamento.  
+   - Remover, ocultar ou alterar avisos de direitos autorais ou informações de licença.
+
+3. PROPRIEDADE INTELECTUAL  
+   O Software Volante Arduino, incluindo seu código-fonte, algoritmos, design, ícones, interface, dados em JSON e documentação, é protegido pelas leis de direitos autorais e tratados internacionais de propriedade intelectual.
+
+4. GARANTIA LIMITADA  
+   Este software é fornecido “como está”, sem garantias expressas ou implícitas de qualquer tipo, incluindo, mas não se limitando a garantias de comercialização, adequação a um propósito específico ou ausência de erros.
+
+5. RESPONSABILIDADE  
+   Em hipótese alguma o autor será responsável por quaisquer danos diretos, indiretos, incidentais ou consequenciais decorrentes do uso ou impossibilidade de uso deste software.
+
+6. SUPORTE E ATUALIZAÇÕES  
+   O suporte técnico e as atualizações são oferecidos apenas aos usuários devidamente licenciados, conforme os termos definidos pelo desenvolvedor.
+
+7. RESCISÃO  
+   O descumprimento de quaisquer dos termos acima resultará na imediata revogação da licença e bloqueio do acesso ao sistema.
+
+------------------------------------------------------------
+Autor: Davi Oli.  
+Portfólio: https://davioli12.github.io/portifolio  
+E-mail de contato: dsve367dev@gmail.com  
+Versão: 1.0  
+Data: Outubro de 2025
+------------------------------------------------------------
